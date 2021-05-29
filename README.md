@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PJMantoss
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning APIs & Microservives
+- 🌱 I’m currently learning APIs & Microservices
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me pjmantoss@gmail.com
 
