@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PJMantoss
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning how to create web apps with the MERN stack
+- 🌱 I’m currently learning C# and .NET
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me pjmantoss@gmail.com
 
