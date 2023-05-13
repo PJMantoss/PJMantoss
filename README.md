@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PJMantoss
 - 👀 I’m interested in Web Development and Content Creation
-- 🌱 I’m currently learning how to work with APIs in C# and .NET
+- 🌱 I’m currently learning how to Make Web Apps with NextJS, KeystoneJS and the MERN stack.
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me pjmantoss@gmail.com
 
