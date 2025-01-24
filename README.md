@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PJMantoss
-- 👀 I’m interested in Web Development and Content Creation
+- 👀 I’m interested in Web Development and Filmmaking
 - 🌱 I’m currently learning how to Make Web Apps using C# and SQL Server Management Studio.
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me pjmantoss@gmail.com
