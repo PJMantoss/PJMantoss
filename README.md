@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PJMantoss
 - 👀 I’m interested in Web Development and Filmmaking
-- 🌱 I’m currently learning how to Make Web Apps using C# and SQL Server Management Studio.
+- 🌱 I’m currently learning how to Make Fullstack Web Apps using the MERN Stack.
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me pjmantoss@gmail.com
 
